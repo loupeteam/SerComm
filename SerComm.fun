@@ -1,13 +1,11 @@
-(********************************************************************
- * COPYRIGHT -- Automation Resources Group
- ********************************************************************
- * Library: SerComm
+(*
  * File: SerComm.fun
- * Author: David Blackburn
- * Created: June 21, 2013
- ********************************************************************
- * Functions and function blocks of library SerComm
- ********************************************************************)
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of SerComm, licensed under the MIT License.
+ *
+ *)
 
 FUNCTION SerialCommFn_Cyclic : UINT (*Cyclic function for managing serial communications*)
 	VAR_IN_OUT

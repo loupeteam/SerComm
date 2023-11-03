@@ -1,13 +1,11 @@
-/********************************************************************
- * COPYRIGHT -- Automation Resources Group
- ********************************************************************
- * Library: SerComm
+/*
  * File: SerialCommFn_Cyclic.c
- * Author: David Blackburn
- * Created: June 21, 2013
- ********************************************************************
- * Implementation of library SerComm
- ********************************************************************/
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of SerComm, licensed under the MIT License.
+ *
+ */
 
 #include <bur/plctypes.h>
 #ifdef __cplusplus
