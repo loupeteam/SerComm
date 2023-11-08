@@ -4,7 +4,6 @@
   <Files>
     <File>SerComm.html</File>
     <File>SerComm.md</File>
-    <File>RevisionHistory.txt</File>
     <File Description="Exported data types">SerComm.typ</File>
     <File Description="Exported constants">SerComm.var</File>
     <File Description="Exported functions and function blocks">SerComm.fun</File>
