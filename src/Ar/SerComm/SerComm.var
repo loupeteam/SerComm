@@ -6,6 +6,7 @@
  * This file is part of SerComm, licensed under the MIT License.
  *
  *)
+
 VAR CONSTANT
 	SERCOMM_MAI_DATA : UINT := 255;
 	SERCOMM_STRLEN_DEVICENAME : USINT := 80;
