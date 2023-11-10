@@ -1,0 +1,15 @@
+(*
+ * File: SerComm.var
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of SerComm, licensed under the MIT License.
+ *
+ *)
+
+VAR CONSTANT
+	SERCOMM_MAI_DATA : UINT := 255;
+	SERCOMM_STRLEN_DEVICENAME : USINT := 80;
+	SERCOMM_STRLEN_MODE : USINT := 255;
+	SERCOMM_STRLEN_ERRORSTRING : USINT := 80;
+END_VAR
