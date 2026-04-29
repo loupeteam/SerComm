@@ -2,21 +2,18 @@
   "name": "asproject",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "@loupeteam/librarybuilderproject": "^0.1.0"
-  },
+  "license": "MIT",
   "lpmConfig": {
     "deploymentConfigs": [
       "Intel",
       "ARM"
     ],
     "gitClient": "GitExtensions"
+  },
+  "dependencies": {
+    "@loupeteam/librarybuilderproject": "^1.0.0"
   }
 }
